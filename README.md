@@ -41,13 +41,6 @@ CNN을 이용한 얼굴인식 출결시스템 구현 ( 상명대 상생플러스
  
  <hr/>
  
- ![img1](https://github.com/merassom/Face-Recognition-Using-CNN/blob/master/Documents/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%95%9E%EB%A9%B4%ED%91%9C%EC%A7%80.png)
- ![img2](https://github.com/merassom/Face-Recognition-Using-CNN/blob/master/Documents/project_img.PNG)
- 
- ![img3](https://github.com/merassom/Face-Recognition-Using-CNN/blob/master/Documents/Movie_Realtime.PNG)
- 
- ![img4](https://github.com/merassom/Face-Recognition-Using-CNN/blob/master/Documents/%ED%99%9C%EB%8F%99%EC%82%AC%EC%A7%843.jpg)
-
  
  <hr/>
  
